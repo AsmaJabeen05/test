@@ -12,6 +12,8 @@ public static void main(String[] args){
 	Test t1=new Test();
 	Test t2=new Test();
 	Test t3=new Test();
+	int i=10;
+	int i1=20;
 	ArrayList ts=new ArrayList();
 	  
     // Elements are added using add() method 
